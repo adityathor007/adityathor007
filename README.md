@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@adityas21994534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adityas21994534" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityathor0000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityathor0000@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-singh-568673247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityathor0000@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/me.aditya_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.aditya_rajput" height="30" width="40" /></a>
 <a href="https://discord.gg/Jogo saturo#8939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jogo saturo#8939" height="30" width="40" /></a>
 </p>
